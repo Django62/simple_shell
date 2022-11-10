@@ -1,2 +1,1 @@
-# simple_shell
-My first project building my own shell
+Sodash is a simple shell unix command interpreter that is part of the ALX low level programming module at ALX School and is intended to emulate the basics sh shell. All the information given in this README is based on the sodash and bash man (1) pages.
