@@ -1,0 +1,8 @@
+# Ignore Vim temporary files
+*#
+*~
+
+# Ignore executable file
+*.out
+*.swp
+*.swo
