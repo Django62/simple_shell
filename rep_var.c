@@ -132,7 +132,7 @@ char *replaced_input(r_var **head, char *input, char *new_input, int nlen)
 			j++;
 		}
 	}
-	return (new_input)
+	return (new_input);
 }
 
 /**
@@ -178,4 +178,6 @@ char *rep_var(char *input, data_shell *datash)
 	free(input);
 	free(status);
 
+	return (new_input);
+	
 }
