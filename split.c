@@ -57,7 +57,6 @@ void add_nodes(sep_list **head_s, line_list **head_l, char *input)
 	char *line;
 
 	input = swap_char(input, 0);
-	
 	for (i = 0; input[i]; i++)
 	{
 		if (input[i] == ';')

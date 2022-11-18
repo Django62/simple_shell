@@ -35,7 +35,7 @@ int cd_shell(data_shell *datash)
 	if (_strcmp(".", dir) == 0 || _strcmp("..", dir) == 0)
 	{
 		cd_dot(datash);
-		return(1);
+		return (1);
 	}
 
 	cd_to(datash);
