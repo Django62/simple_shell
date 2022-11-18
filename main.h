@@ -226,6 +226,6 @@ void aux_help_alias(void);
 void aux_help_cd(void);
 
 /* get_help.c */
-int find_help(data_shell *datash);
+int get_help(data_shell *datash);
 
 #endif
