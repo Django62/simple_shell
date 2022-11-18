@@ -25,7 +25,7 @@ int get_len(int n)
 		n1 = n1 / 10;
 	}
 
-	return (lenght)
+	return (lenght);
 }
 
 /**
